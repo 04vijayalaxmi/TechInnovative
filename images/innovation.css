@@ -1,0 +1,179 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: poppins,sans-serif;
+}
+.hero img{
+    height: 400px;
+    width:100%;
+    padding: 5px;
+}
+.container{
+    display: flex;
+    padding:5px;
+    margin-top: 15px;
+    
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-size: 20px;
+    text-align: left;
+
+}
+.text p{
+    margin-top: 5px;
+
+}
+.picture img{
+    height: 250px;
+    width:250px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+.heading {
+    background-color: rgb(31, 31, 129);  
+    font-size: 34px;
+    color: white;
+    margin-top: 80px;
+}
+.heading h3{
+    margin-left: 80px;
+    padding-top: 30px;
+}
+.innovative-info{
+    height: 600px;
+    width:100%;
+    display: flex;
+    background-color: rgb(31, 31, 129);
+    padding-top: 40px;
+}
+.innovative-info img{
+    height: 380px;
+    width:380px;
+    border-radius: 50%;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.innovative-info p{
+color: white;
+text-align: center;
+}
+.innovative-info h2{
+color: white;
+text-align: center;
+}
+.bton button{
+    background-color: #60b0c0;
+    height: 40px;
+    width:130px;
+    border-radius: 6px;
+        margin-left: 50px;
+        margin-top: 180px;
+}
+button:hover{
+    background-color: white;
+    height: 40px;
+    width:130px;
+    border-radius: 6px;
+}
+button a{
+    text-decoration: none;
+    color:white;
+
+}
+button a:hover{
+    text-decoration: none;
+    color:#60b0c0;
+}
+.funding img{
+    width: 100%;
+    height: 100px;
+}
+.invest{
+display: flex;
+background: #008080; 
+padding-top: 50px;
+}
+.fund-opportunity{
+    background: #008080;
+    margin-top: 70px;
+    color: white;
+    font-size: 35px;
+    
+}
+.funding img{
+    height: 300px;
+    width:300px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.invest_text{
+    font-size: 18px;
+    margin-left: 20px;
+    text-align: left;
+    color: white;
+}
+.investor-text{
+    display: flex;
+    background: #008080;   
+    width:100%;
+
+}
+.investor img{
+    height:300px;
+    width:300px;
+    border-radius: 30px;
+    margin-left: 600px;
+}
+.invest-text{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 80px;
+    color: white;
+}
+.invest-text button{
+    background-color: #60b0c0;
+    height: 40px;
+    width:130px;
+    border-radius: 6px;
+        margin-left: 50px;
+        margin-top: 10px;
+}
+button:hover{
+    background-color: white;
+    height: 40px;
+    width:130px;
+    border-radius: 6px;
+}
+button a{
+    text-decoration: none;
+    color:white;
+
+}
+button a:hover{
+    text-decoration: none;
+    color:#60b0c0;
+}
+.resource{
+display: flex;
+background: #008080;
+color: white;
+
+
+}
+.resorce1 img{
+    height: 300px;
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.resorce-text{
+    margin-left: 40px;
+    text-align: left;
+    font-size: 18px;
+    margin-top: 80px;
+}
